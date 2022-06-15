@@ -1,0 +1,174 @@
+.logo {
+  width: 210px;
+  padding-left: 25px;
+}
+
+
+h2 {
+  text-shadow: 1px 1px 5px #333;
+}
+
+.container-fluid {
+  padding:0;
+}
+
+.nav-item {
+  margin: 10px 5% 0;
+  white-space: nowrap;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.ms-auto {
+  padding-right: 250px;
+}
+
+.testimonial-image {
+  width: inherit;
+height: 650px;
+object-fit: cover;
+}
+
+.testimonial-text {
+  position: absolute;
+  z-index: 1;
+  text-align: center;
+  color: #ffffff;
+  font-size: 350%;
+  font-family:sans-serif;
+  font-weight: 600;
+  padding: 15% 20%;
+}
+
+#programs {
+  padding: 10% 10%;
+  /* position: absolute;
+  z-index: 1; */
+  /* top:90%; */
+  background-color: #ffffff;
+}
+
+.introtext {
+  padding: 5% 15% 5% 0;
+  text-align: justify;
+  color: grey;
+}
+
+.border {
+  border-width: thick;
+  border-style: dotted;
+  margin-right: 15%;
+}
+
+#intro {
+  margin-left: 5%;
+}
+
+.programlayout {
+  text-align: center;
+  padding: 0;
+}
+
+.programimg {
+  width:200px;
+  height:200px;
+}
+
+.programpart {
+  display: inline-block;
+  padding: 2% 1% 5%;
+}
+
+.shadow {
+  justify-content: space-evenly;
+  box-shadow: -1px -1px 7px 1px rgb(0 0 0 / 30%);;
+  margin: 2% 5% 5%;
+}
+
+.donatetext {
+max-width: 600px;
+padding: 2em;
+margin-right: 2.5em;
+margin-top: 4%;
+margin-bottom: 8%;
+align-self: center;
+border-radius: 8px;
+vertical-align: middle;
+overflow: hidden;
+background-color: #fff;
+margin-left: auto;
+}
+
+.donateLayout {
+  background: url("../images/donate.jpg") center;
+  background-size:cover;
+  padding: 7px 81px 12px 62px;
+  margin: 2em 0;
+  justify-content: flex-end;
+
+}
+
+#partnerslayout {
+  text-align: center;
+  padding: 5% 0 0;
+}
+
+.registercontainer {
+  background-color: #000000;
+  top:  20px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.register {
+  background-color: #fbb605;
+  align-items: center;
+  border-radius: 8px;
+  justify-content: space-between;
+  display: flex;
+  padding: 2% 2%;
+  min-height: 120px;
+  max-height: 170px;
+  position: relative;
+  bottom: 70px;
+  width: 80%;
+  color: #ffffff;
+}
+
+#infolayout {
+  background-color: #000000;
+  color: grey;
+  padding: 5% 10%;
+}
+
+.head-text {
+  padding: 5% 0 1%;
+}
+
+a {
+  color: grey;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+a:hover {
+  color: white;
+}
+
+.socials {
+  text-align: center;
+}
+
+.socialicon {
+  padding: 3% 1% 0;
+}
+
+.socialicon:hover {
+  color: #ffffff;
+}
